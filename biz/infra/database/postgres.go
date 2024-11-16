@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"github.com/li1553770945/sheepim-online-service/biz/infra/config"
+	"github.com/li1553770945/sheepim-route-service/biz/infra/config"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

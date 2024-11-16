@@ -2,7 +2,7 @@ package trace
 
 import (
 	"github.com/kitex-contrib/obs-opentelemetry/provider"
-	"github.com/li1553770945/sheepim-online-service/biz/infra/config"
+	"github.com/li1553770945/sheepim-route-service/biz/infra/config"
 )
 
 type TraceStruct struct {

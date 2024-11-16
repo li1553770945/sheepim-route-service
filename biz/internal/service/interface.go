@@ -2,8 +2,8 @@ package project
 
 import (
 	"context"
-	"github.com/li1553770945/sheepim-online-service/biz/internal/repo"
-	"github.com/li1553770945/sheepim-online-service/kitex_gen/project"
+	"github.com/li1553770945/sheepim-route-service/biz/internal/repo"
+	"github.com/li1553770945/sheepim-route-service/kitex_gen/project"
 )
 
 type ProjectService struct {
